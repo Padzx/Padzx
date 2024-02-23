@@ -20,6 +20,8 @@ In the realm of development, I am skilled in various programming languages and f
 
 As a student of Data Science, I am deeply passionate about extracting insights from data and using them to drive informed decision-making and business strategies. I specialize in developing predictive models, analyzing datasets, and implementing data-driven solutions to address real-world challenges. My focus areas include machine learning, deep learning, and statistical analysis, with a keen interest in applying these techniques to solve complex problems and uncover valuable insights.
 
+📫 How can you reach me gabriel.padzx@outlook.com
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Data+Science+📊;DevOps+🤖;Devlopment💻;Be+Welcome!+😁😁)](https://git.io/typing-svg)
 
 
