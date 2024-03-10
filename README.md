@@ -10,11 +10,11 @@ With a solid foundation in DevOps practices, I excel in streamlining development
 
 ## AWS Cloud Expertise
 
-I have extensive hands-on experience with Amazon Web Services (AWS), utilizing its diverse range of services to design, deploy, and manage scalable and secure cloud environments. My proficiency extends to AWS services such as EC2, S3, Lambda, RDS, and more, enabling me to architect robust and cost-effective solutions to meet various business requirements.
+I have extensive hands-on experience with Amazon Web Services (AWS), utilizing its diverse range of services to design, deploy, and manage scalable and secure cloud environments. My proficiency extends to AWS services such as EC2, S3, Lambda, RDS and more, enabling me to architect robust and cost-effective solutions to meet various business requirements.
 
 ## Development Proficiency
 
-In the realm of development, I am skilled in various programming languages and frameworks, allowing me to develop high-quality software solutions tailored to specific project needs. Whether it's building web applications, APIs, or automation scripts, I leverage best practices to deliver maintainable, scalable, and efficient code.
+In the realm of development, I am skilled in various programming languages and frameworks, allowing me to develop high-quality software solutions tailored to specific project needs. Whether it's building web applications, APIs or automation scripts, I leverage best practices to deliver maintainable, scalable, and efficient code.
 
 ## Data Science Enthusiast
 
