@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&text=I'm%20Gabriel%20Padilha&animation=fadeIn&color=gradient&customColorList=0,2,2,5,30)
 
-I am a passionate individual with a diverse skill set spanning across DevOps, AWS cloud computing, development, and Data Science. As a dedicated student, I continuously seek opportunities to enhance my knowledge and skills in these areas, particularly focusing on leveraging data-driven strategies and problem-solving through Machine Learning and Deep Learning techniques.
+I am a passionate individual with a diverse skill set spanning across DevOps, AWS cloud computing, development and Data Science. As a dedicated student, I continuously seek opportunities to enhance my knowledge and skills in these areas, particularly focusing on leveraging data-driven strategies and problem-solving through Machine Learning and Deep Learning techniques.
 
 ## DevOps Skills
 
