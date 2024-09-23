@@ -16,10 +16,6 @@ I have extensive hands-on experience with Amazon Web Services (AWS), utilizing i
 
 In the realm of development, I am skilled in various programming languages and frameworks, allowing me to develop high-quality software solutions tailored to specific project needs. Whether it's building web applications, APIs or automation scripts, I leverage best practices to deliver maintainable, scalable, and efficient code.
 
-## Data Science Enthusiast
-
-As a student of Data Science, I am deeply passionate about extracting insights from data and using them to drive informed decision-making and business strategies. I specialize in developing predictive models, analyzing datasets, and implementing data-driven solutions to address real-world challenges. My focus areas include machine learning, deep learning, and statistical analysis, with a keen interest in applying these techniques to solve complex problems and uncover valuable insights.
-
 📫 How can you reach me gabrielpadzx@gmail.com
 
 My Portfolio: https://padzx-portfolio-v1.vercel.app/
