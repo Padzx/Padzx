@@ -18,11 +18,6 @@ In the realm of development, I am skilled in various programming languages and f
 
 📫 How can you reach me gabrielpadzx@gmail.com
 
-My Portfolio: https://padzx-portfolio-v1.vercel.app/
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Padzx&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
 
 
 
